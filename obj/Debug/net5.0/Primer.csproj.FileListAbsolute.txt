@@ -1,0 +1,7 @@
+/home/acer/Dio/Primer/obj/Debug/net5.0/Primer.csprojAssemblyReference.cache
+/home/acer/Dio/Primer/obj/Debug/net5.0/Primer.GeneratedMSBuildEditorConfig.editorconfig
+/home/acer/Dio/Primer/obj/Debug/net5.0/Primer.AssemblyInfoInputs.cache
+/home/acer/Dio/Primer/obj/Debug/net5.0/Primer.AssemblyInfo.cs
+/home/acer/Dio/Primer/obj/Debug/net5.0/Primer.csproj.CoreCompileInputs.cache
+/home/acer/Dio/Primer/obj/Debug/net5.0/Primer.MvcApplicationPartsAssemblyInfo.cs
+/home/acer/Dio/Primer/obj/Debug/net5.0/Primer.MvcApplicationPartsAssemblyInfo.cache

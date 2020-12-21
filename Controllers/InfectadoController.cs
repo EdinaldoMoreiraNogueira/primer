@@ -49,7 +49,7 @@ namespace Api.Controllers
             return Ok("Atualizado com sucesso");
         }
         HttpDelete]
-        public ActionResult Delete(String dataNasc)
+        public ActionResult Delete("{dataNasc}")
         {
             var infectado = new Infectado(dto.DataNascimento, dto.Sexo, dto.Latitude, dto.Longitude);
 
